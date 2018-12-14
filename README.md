@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PdivvieViewTool::Renderer.copyright 'Pierre de Villiers', 'All rights reserved'
+```
 
 ## Development
 
